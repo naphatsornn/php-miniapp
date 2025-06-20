@@ -1,0 +1,14 @@
+{
+    "name": "napatsorn.kij/php-miniapp",
+    "type": "project",
+    "require": {
+        "kreait/firebase-php": "^7.19"
+    },
+    "authors": [
+        {
+            "name": "naphatsornn",
+            "email": "naphatsorn.ki@ku.th"
+        }
+    ],
+    "minimum-stability": "stable"
+}
